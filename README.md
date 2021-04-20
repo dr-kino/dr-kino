@@ -1,4 +1,12 @@
-### :wq
+ ________________________________________
+/                   :wq                  \
+\                                        /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 <!--
 **dr-kino/dr-kino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
